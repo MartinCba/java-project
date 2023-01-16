@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tipos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tipos/tipos.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
