@@ -20,11 +20,12 @@ public class Coche {
         this.largo = largo;
     }
 
-
+    public Coche() {
+    }
     // comportamiento
 
     public void acelerar(Integer cantidad){
-        if (cantidad > 0 && cantidad <= 120) {
+        if (cantidad > 0 && cantidad <= 520) {
             this.velocidad += cantidad;
         }
     }
@@ -35,9 +36,9 @@ public class Coche {
                 "color='" + color + '\'' +
                 ", fabricante='" + fabricante + '\'' +
                 ", modelo='" + modelo + '\'' +
-                ", peso=" + peso +
-                ", largo=" + largo +
-                ", velocidad=" + velocidad +
+                ", peso=" + peso + " Kg"+
+                ", largo=" + largo + " Mts" +
+                ", velocidad=" + velocidad + " Km/h" +
                 '}';
     }
 }
