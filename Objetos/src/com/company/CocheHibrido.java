@@ -17,7 +17,7 @@ public class CocheHibrido extends Coche{
                 ", peso=" + peso +
                 ", largo=" + largo +
                 ", velocidad=" + velocidad +
-                ", motorHibrido='" + motorHibrido + '\'' +
+                ",  bmotorHibrido='" + motorHibrido + '\'' +
                 '}';
     }
 }
