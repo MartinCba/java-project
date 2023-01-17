@@ -8,6 +8,9 @@ public class CocheHibrido extends Coche{
         this.motorHibrido = motorHibrido;
     }
 
+    public CocheHibrido() {
+    }
+
     @Override
     public String toString() {
         return "CocheHibrido{" +

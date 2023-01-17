@@ -2,7 +2,7 @@ package com.company;
 
 public class CocheMain {
     public static void main(String[] args) {
-        Coche cocheObj = new Coche("negro", "Lamborghini", "Diablo", 750.0, 2.5);
+        Coche cocheObj = new CocheElectrico("negro", "Lamborghini", "Diablo", 750.0, 2.5, "Rx - Electrico");
 
         cocheObj.acelerar(375);
         cocheObj.peso = 980.0;
