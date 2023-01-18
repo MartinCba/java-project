@@ -15,6 +15,11 @@ public class ArraysMain {
         }
 
 
+        for (int item:notas2) {
+            System.out.println(item); // 8 10 5 9 8 7 5 6
+
+        }
+
 
     }
 }
