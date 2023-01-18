@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Objetos/Objetos.iml" filepath="$PROJECT_DIR$/Objetos/Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/condicionales/condicionales.iml" filepath="$PROJECT_DIR$/condicionales/condicionales.iml" />
       <module fileurl="file://$PROJECT_DIR$/documentacion/documentacion.iml" filepath="$PROJECT_DIR$/documentacion/documentacion.iml" />
       <module fileurl="file://$PROJECT_DIR$/ejercicio1/ejercicio1.iml" filepath="$PROJECT_DIR$/ejercicio1/ejercicio1.iml" />
